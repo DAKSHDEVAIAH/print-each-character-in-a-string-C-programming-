@@ -1,1 +1,1 @@
-# print-each-character-in-a-string-C-programming-
+# print-each-character-in-a-string-C-programming
